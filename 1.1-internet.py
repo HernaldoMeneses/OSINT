@@ -7,3 +7,5 @@
 #Social engineering crowd has adopted it as part of their playbook
 
 OSINT = []
+
+#pg. 8/526
